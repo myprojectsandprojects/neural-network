@@ -1,0 +1,1 @@
+clang -Wall -Wextra nn_1.cpp
